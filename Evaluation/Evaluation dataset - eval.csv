@@ -1,0 +1,187 @@
+text_index,Head,Type,Tail
+0,Lidia Chojecka-Leandro,spouse,Jean-Marc Léandro.
+0,Jean-Marc Léandro.,spouse,Lidia Chojecka-Leandro
+1,Nubkhesbed,spouse,Pharaoh Ramesses VI
+1,Pharaoh Ramesses VI,spouse,Nubkhesbed
+1,Nubkhesbed,spouse,Pharaoh Ramesses VII
+1,Nubkhesbed,mother,Princess Iset
+1,Nubkhesbed,mother,Amenherkhepshef
+1,Nubkhesbed,mother,Panebenkemyt.
+1,Amenherkhepshef's tomb,child,Nubkhesbed
+1,Princess Iset,child,Nubkhesbed
+1, Amenherkhepshef,child,Nubkhesbed
+1,Panebenkemyt.,child,Nubkhesbed
+2,Gustavo Selbach,sibling,Leonardo
+2, Leonardo,sibling,Gustavo Selbach
+3,Napoleon,spouse,Marie Louise
+3,Marie Louise,spouse,Napoleon
+4,Sergey Shayslamov,sibling,Vladimir Shayslamov.
+4,Vladimir Shayslamov.,sibling,Sergey Shayslamov
+5,Stephen Barrett Tanner,child,Dr William Tanner
+5,Dr William Tanner,father,Stephen Barrett Tanner
+6,Marina Mora Montero,spouse, Gustavo Mora
+6, Gustavo Mora,spouse,Marina Mora Montero
+7,Jon Eriksson Helland II,child,Erik Jonsson Helland
+7,Erik Jonsson Helland,father,Jon Eriksson Helland II
+9,Adolphe Stoeber,child,Ehrenfried Stoeber
+9,Ehrenfried Stoeber,father,Adolphe Stoeber
+9,Auguste Stoeber,sibling,Adolphe Stoeber
+9,Adolphe Stoeber,sibling, Auguste Stoeber
+10,Al-Sultan Abdullah I Sri Dhanmaru Aadheettha Mahaa Radhun,spouse,Queen Khadijah
+10,Queen Khadijah,spouse,Al-Sultan Abdullah I Sri Dhanmaru Aadheettha Mahaa Radhun
+12,Isauro Clerks,spouse,Valentina Borrelli 
+12,Valentina Borrelli ,spouse,Isauro Clerks
+14,Kolthoff ,father,Erick Kolthoff-Benners 
+14,Erick Kolthoff-Benners ,child,Kolthoff 
+15,Jimmy Gardner,sibling,George Gardner
+15,George Gardner,sibling,Jimmy Gardner
+15,Jimmy Gardner,sibling,Billy Gardner
+15,Jimmy Gardner,relative,Joe Thomas
+15,Joe Thomas,relative,Jimmy Gardner
+15,Billy Gardner,sibling,Jimmy Gardner
+16,Bengt Richter,sibling,Richter
+16,Richter,sibling,Bengt Richter
+18,Radulf ,child,Sunifred I
+18,Sunifred I,father,Radulf 
+18,Radulf ,sibling,Wilfred
+18,Wilfred,sibling,Radulf 
+18,Radulf ,sibling,Miró
+18,Miró,sibling,Radulf 
+18,Miró II,child,Wilfred
+18,Wilfred,father,Miró II
+19,Paul Fée,father,Antoine Laurent Apollinaire Fée
+19,Antoine Laurent Apollinaire Fée,child,Paul Fée
+20,Chen,spouse,Lin Yueh-ping
+20,Lin Yueh-ping,spouse,Chen
+21,Bill Osmanski,sibling,Joseph Charles Osmanski
+21,Joseph Charles Osmanski,sibling,Bill Osmanski
+22,Søren Stryger,spouse,Eva
+22,Eva,spouse,Søren Stryger
+23,Joe McShane,sibling,Jim McShane
+23,Jim McShane,sibling,Joe McShane
+23,Jim McShane,sibling,Henry
+23,Henry,sibling,Jim McShane
+24,Gela Yelizbarovich Dzagoyev,sibling,Alan Dzagoyev
+24,Alan Dzagoyev,sibling,Gela Yelizbarovich Dzagoyev
+25,Dmitri Mikhaylovich Sysuyev,sibling,Vladislav Sysuyev
+25,Vladislav Sysuyev,sibling,Dmitri Mikhaylovich Sysuyev
+26,Davy Oyen ,father,Luca Oyen
+26,Luca Oyen,child,Davy Oyen
+27,Walter Place,relative,Walter Place
+27,Walter Place,relative,Walter Place
+28,Vitaliy Sobko,sibling,Aleksandr Ivanovich Sobko
+28,Aleksandr Ivanovich Sobko,sibling,Vitaliy Sobko
+29,William McColl,relative,Ian McColl
+29,Ian McColl,relative,William McColl
+31,Nikita Anatolyevich Malyarov,sibling,Kirill Malyarov
+31,Kirill Malyarov,sibling,Nikita Anatolyevich Malyarov
+32,Igor Andronic,relative,Valeriu Andronic
+32,Valeriu Andronic,relative,Igor Andronic
+32,Igor Andronic,sibling,Gheorghe Andronic
+32,Gheorghe Andronic,sibling,Igor Andronic
+32,Igor Andronic,sibling,Oleg
+32,Oleg,sibling,Igor Andronic
+33,Jan Berg,sibling,Odd Berg
+33,Odd Berg,sibling,Jan Berg
+34,Odwa Mzuzo Ndungane,sibling,Akona
+34,Akona,sibling,Odwa Mzuzo Ndungane
+35,Richard Archibald Zoll,sibling,Martin
+35,Martin,sibling,Richard Archibald Zoll
+35,Richard Archibald Zoll,sibling,Carl Zoll
+35,Carl Zoll,sibling,Richard Archibald Zoll
+36,Nikolai Ivanovich Fiyev,sibling,Vasili Fiyev
+36,Vasili Fiyev,sibling,Nikolai Ivanovich Fiyev
+37,Aleksandr Vladimirovich Ionov,sibling,Konstantin Ionov
+37,Konstantin Ionov,sibling,Aleksandr Vladimirovich Ionov
+38,Ermen de Jesús Benítez Mesías,father,Christian Benítez
+38,Christian Benítez,child,Ermen de Jesús Benítez Mesías
+39,John Tunnicliffe,sibling,Billy
+39,Billy,sibling,John Tunnicliffe
+40,Ghazi,spouse,Ahmad Begloo
+40,Ahmad Begloo,spouse,Ghazi
+41,M. Chandra,student of,Arya Samaj
+42,David Duncombe,sibling,Charles
+42,Charles,sibling,David Duncombe
+43,Henry Beagley,sibling,Thomas Beagley
+43,Thomas Beagley,sibling,Henry Beagley
+45,Elias Sunde,father,Arne Sunde
+46,Agnar Helgason,sibling,Ásgeir Helgason
+46,Ásgeir Helgason,sibling,Agnar Helgason
+46,Helgi Valdimarsson,mother,Agnar Helgason
+46,Helgi Valdimarsson,mother,Ásgeir Helgason
+46,Agnar Helgason,relative,Tim Moore
+47,Thore Christian Elias Fries,father,Theodor Magnus Fries
+47,Thore Christian Elias Fries,sibling,Robert Elias Fries
+47,Robert Elias Fries,sibling,Thore Christian Elias Fries
+50,Zigmas Vaišvila,spouse,Regina
+50,Regina,spouse,Zigmas Vaišvila
+51,Jan Claesz Rietschoof,father,Hendrik Rietschoof
+51,Hendrik Rietschoof,child,Jan Claesz Rietschoof
+52,William FitzMaurice,child,Patrick Fitzmaurice
+52,William FitzMaurice,child,Honore Fitzgerald
+52,Honore Fitzgerald,child,Sir Edmund Fitzgerald
+52,William FitzMaurice,spouse,Constance Long
+52,Constance Long,spouse,William FitzMaurice
+52,Constance Long,child,William Long
+52,William FitzMaurice,father,Thomas Fitzmaurice
+53,Banyong Lamsam,child,Choti Lamsam
+53,Banyong Lamsam,sibling,Bancha Lamsam
+53,Bancha Lamsam,sibling,Banyong Lamsam
+54,Anita Garibaldi,spouse,Giuseppe Garibaldi
+54,Giuseppe Garibaldi,spouse,Anita Garibaldi
+55,George Moffat,child,George Moffat
+55,George Moffat,child,George Moffat
+56,Helen Butler,child ,Edmund Butler
+56,Edmund Butler,father,Helen Butler
+57,Michael Howard,spouse,Betty Bartelt
+57,Betty Bartelt,spouse,Michael Howard
+59,Saadallah Al Jabiri,sibling,Fayza Al Jabiri
+59,Fayza Al Jabiri,sibling,Saadallah Al Jabiri
+59,Riad Al Solh,spouse,Fayza Al Jabiri
+59,Fayza Al Jabiri,spouse,Riad Al Solh
+60,Richard,sibling,William Baker
+60,William Baker,sibling,Richard
+62,Margo Johns,spouse,William Franklyn
+62,William Franklyn,spouse,Margo Johns
+62,Sabina Franklyn,child ,Margo Johns
+62,Margo Johns,mother,Sabina Franklyn
+65,Donald Davis,spouse,Dorothy Matthews
+65,Dorothy Matthews,spouse,Donald Davis
+65,Owen Davis,father,Donald Davis
+65,Donald Davis,child,Owen Davis
+66,Deborah McGuire,spouse,Richard Pryor
+66,Richard Pryor,spouse,Deborah McGuire
+67,Dirce Migliaccio,spouse,Flávio Migliaccio
+67,Flávio Migliaccio,spouse,Dirce Migliaccio
+68,Orentius,sibling ,Cyriacus
+68,Orentius,sibling ,Firminus
+68,Orentius,sibling ,Firmus
+68,Orentius,sibling ,Heros
+68,Orentius,sibling ,Longinus
+68,Orentius,sibling ,Pharnacius
+69,Rosa Calletano,spouse,Ray Calletano
+69,Ray Calletano,spouse,Rosa Calletano
+70,Michael J Whitley,child ,Herbert Whitley
+70,Michael J Whitley,child ,Marguerite Whitley
+70,Herbert Whitley,father,Michael J Whitley
+70,Marguerite Whitley,mother,Michael J Whitley
+70,Rita,spouse,Michael J Whitley
+70,Michael J Whitley,spouse,Rita
+72,Richard Daniels,father,Mickey Daniels
+72,Mickey Daniels,child ,Richard Daniels
+73,Eric Thompson,spouse,Phyllida Law
+73,Phyllida Law,spouse,Eric Thompson
+73,Eric Thompson,father,Emma Thompson 
+73,Emma Thompson ,child,Eric Thompson
+74,George,spouse,Honor
+74,Honor,spouse,George
+74,George,father,Sophie
+74,Sophie,child,George
+74,Claudia,relative,George
+74,George,relative,Claudia
+75,George Besson ,spouse,Adèle
+75,Adèle,spouse,George Besson 
+76,Hippolyte Girardot,father,Ana Girardot
+76,Ana Girardot,child,Hippolyte Girardot
+77,Craig Conway,spouse,Jill Halfpenny
+77,Jill Halfpenny,spouse,Craig Conway
